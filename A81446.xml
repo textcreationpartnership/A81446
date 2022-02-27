@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diary of the siege of Athlone. Giving a perfect account of the taking the castle, forts, and Irish-town, by storme, on the 30th. of June, last part. With a particular relation of their Majesties army passing the Shannon; and of their farther progress. By an engineer of the army, an eye-witness of the action. Licens'd, July the 11th. 1691. J. Fraiser</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81446</idno>
+            <idno type="STC">Wing D1377</idno>
+            <idno type="STC">ESTC R231402</idno>
+            <idno type="EEBO-CITATION">99897288</idno>
+            <idno type="PROQUEST">99897288</idno>
+            <idno type="VID">137010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137010)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diary of the siege of Athlone. Giving a perfect account of the taking the castle, forts, and Irish-town, by storme, on the 30th. of June, last part. With a particular relation of their Majesties army passing the Shannon; and of their farther progress. By an engineer of the army, an eye-witness of the action. Licens'd, July the 11th. 1691. J. Fraiser</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Randal Tayler, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A2r numbered 1; A2v numbered 4.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1775 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137010:1"/>
+            <p>A DIARY OF THE Siege of ATHLONE.</p>
+            <p>GIVING A Perfect ACCOUNT Of the TAKING the <hi>Caſtle, Forts, and Iriſh-Town.</hi>
+            </p>
+            <p>By Storme, On the 30th. of JUNE, laſt paſt.</p>
+            <p>WITH A Particular Relation of Their Majeſties Army <hi>Paſſing the SHANNON;</hi> and of Their farther Progreſs.</p>
+            <p>By an Engineer of the Army, an Eye-Witneſs of the Action.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENS'D,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>July</hi> the 11<hi>th.</hi> 1691.</date>
+                           </dateline> 
+                           <signed>J. FRAISER</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Randal Tayler,</hi> near <hi>Stationers-Hall,</hi> 1691.</p>
+         </div>
+      </front>
+      <body>
+         <div type="diary_of_the_siege_of_Athlone">
+            <pb facs="tcp:137010:2"/>
+            <pb n="1" facs="tcp:137010:2"/>
+            <head>A DIARY OF THE <hi>Siege, and Taking by Storm,</hi> THE Caſtle, Forts, and <hi>Iriſh</hi>-Town of <hi>Athlone,</hi> &amp;c.</head>
+            <p>WE having Poſſeſſed our Selves of the <hi>Engliſh</hi> Town, by driving the <hi>Iriſh</hi> over the <hi>Shannon,</hi> on the 20th. of <hi>June,</hi> as you have already heard.</p>
+            <p>The next day being the 21ſt. by Four in the Morning, we began to Work on our Batteries, againſt the <hi>Iriſh Town,</hi> and by Eight that Night we we had finiſhed two Batteries, one of 6 Twenty Four Pounders, and the other of 8 Eighteen Pounders, and immediately after we began to batter the Caſtle, and the new Additional Works of the Town, on the other ſide of the River.</p>
+            <p>On the 22d. Our Guns continued to play inceſſantly, from our two Batteries, on the Enemies Works, and that with very good ſucceſs.</p>
+            <p>The 23d. This Day about Ten in the Morning, our Tin-Boats, or Pontons, arrived in the Camp, ſome of our Soldiers going among the Ene<g ref="char:EOLhyphen"/>mies Dead, in ſearch for Plunder, hear'd a Voice, crying, <hi>boire, boire,</hi> that is in <hi>Engliſh, Drink, Drink,</hi> and ma<g ref="char:EOLhyphen"/>king
+<pb n="4" facs="tcp:137010:3"/>towards the place, they found it to be a <hi>French</hi> Lieutenant Collonel, who having his Back broak, and be<g ref="char:EOLhyphen"/>ing wounded in ſeveral other places, had lain there ever ſince the late Action on the 20th.</p>
+            <p>This Evening a Drum came to the General, from the Enemies Quarters, with an Anſwer to a Meſſage ſent by the General, about Exchange of Priſoners.</p>
+            <p>The 24th. This Morning about the Hour Six, our own Drum re<g ref="char:EOLhyphen"/>turned from the Enemies Quarters, being kept by them till this time; all our hands (that could any ways poſſibly be ſpared from other Du<g ref="char:EOLhyphen"/>ty,) were employed in mending the Tin-Boats; others of our Men were working with all diligence in raiſing three New Batteries, one be<g ref="char:EOLhyphen"/>low the Bridge, another above it, and the third without the Town-Wall, by the River-ſide, oppoſite to a large Baſtion, the Enemy had erected, on the other ſide the River <hi>Shannon.</hi>
+            </p>
+            <p>About 7 this Evening, one of the Granadeers belonging to the Lord <hi>Lis<g ref="char:EOLhyphen"/>burn</hi>'s Regiment, perceiving a Colours of the Enemies floating on the River, juſt under one of the Arches of the Bridge, immediately ſtript and ſwam thither, and though, I believe, above an hundred Shot were made at him, yet the Fellow brought it off flying, and preſented it to the General, who generouſly Rewarded him with Five Guineas.</p>
+            <p>The 25th. Yeſterday, the Ene<g ref="char:EOLhyphen"/>my were very hard at work, in raiſing three New Batteries above the Caſtle; the one of 4 Guns, on a riſing Ground, at a ſmall diſtance from the Caſtle, and the other two of 3 Six Pounders each, near the River, but the Annoyance they gave us was ve<g ref="char:EOLhyphen"/>ry inconſiderable, notwithſtanding, with one of them they play'd very briskly on the Old Walls of the Town where our Men were, (but without Killings, or Wounding any;) with another, they Shot into ſome of our Regiments of Foot, who lay Encamp<g ref="char:EOLhyphen"/>ed on the Bank of the River, which obliged our Men to Decamp, and re<g ref="char:EOLhyphen"/>move farther off.</p>
+            <p>About Four this Morning, our own Battery (below the Bridge) was finiſhed, and 6 Twenty Four Pounders planted thereon, which began to play about Six, on the Ene<g ref="char:EOLhyphen"/>mies Breaſt-Work, on the other ſide, we continued to play inceſſantly all this Day, from our ſeveral Batte<g ref="char:EOLhyphen"/>ries; with the laſt mentioned, we beat down moſt of the Enemies Breaſt-Work and levelled it with the ground; as alſo, moſt of the Houſes that ſtood in the <hi>Iriſh</hi>-Town; and with the help of Six Mortars, we battered down the greateſt part of the Caſtle, and laid the Enemy ſo open, that a great part of them retired to <hi>Sarſefield</hi>'s
+<pb n="5" facs="tcp:137010:3"/>Camp, others got behind the Caſtle, and other of their Ruined Works.</p>
+            <p>The 26th. Four Deſerters that came into our Camp this Morning, gave an Account, That the Enemies Army, hourly expected our going o<g ref="char:EOLhyphen"/>ver the <hi>Shannon;</hi> but they ſeeming verry ſilly Fellows, we gave little Credit to them. Our Cannon and Mortars continued to play all this Day without intermiſſion. This Day we could plainly Diſcover the <hi>Iriſh</hi> Army, as they lay Encamped on the other ſide of the Town. Our Men worked very hard this Day in repairing the two Arches, of the <hi>Athlone Bridge,</hi> and made up one of them in the E<g ref="char:EOLhyphen"/>vening.</p>
+            <p>The 27th. This Evening we raiſed a Battery in the Meadow below the Town, and planted Five Guns there<g ref="char:EOLhyphen"/>on, to ſtop the way the Enemy had on that ſide, coming into the Town.</p>
+            <p>This Evening our Granadeers Burnt the Enemies Breaſt-work, on the other ſide of the broken Arch, with their Granadoes, which in the Night (notwithſtanding our great and ſmall Shot flying like Hail) the Ene<g ref="char:EOLhyphen"/>my very reſolutely and induſtriouſly repaired.</p>
+            <p>The 28th. Laſt Night and this Morning, we wrought ſo hard on the laſt broken Arch, in the Enemies Poſ<g ref="char:EOLhyphen"/>ſeſſion, that our Beams were laid over it, and partly planked, which the Enemy perceiving, before we could make any Lodgment on the other ſide, detatched a Serjeant, and Ten Men, to run over their Works, with Deſign to ruine ours, but were all immediately Kill'd by our Men; and ſoon after a Lieutenant and Twenty more were ſent upon the ſame Deſign, who all but two were Kill'd, who threw our Planks, and ſome of our Beams, into the River, and eſcaped amongſt the Fire and Smoak.</p>
+            <p>All laſt Night, and this Morning the Enemy were hard at work, in Repairing ſome Old, and in making ſome New Trenches in the Meadow oppoſite to our Batteries. All this Day our Guns continued to play fu<g ref="char:EOLhyphen"/>riouſly on a place called <hi>Connaught</hi> Tower, a ſolid Wall on the North-ſide of the Caſtle, that it took up more time to bring down, than any part of the Caſtle.</p>
+            <p>This Afternoon a Council of War was held, wherein, after great deli<g ref="char:EOLhyphen"/>beration, and long Debates, it was concluded, We ſhould by Six next Morning, attempt paſſing the <hi>Shannon</hi> on the Bridge, and a Float to be laid above the Bridge, oppoſite to the Ca<g ref="char:EOLhyphen"/>ſtle, without Boats below the Bridge, 1000 Granadeers were to be Detatch<g ref="char:EOLhyphen"/>ed for the Forlorn-Hope on this Ser<g ref="char:EOLhyphen"/>vice, who were to be ſuſtained by 15 out of every Troop of Dragoons in the Army, and thoſe ſeconded by ſe<g ref="char:EOLhyphen"/>veral
+<pb n="6" facs="tcp:137010:4"/>Regiments of Foot, our Horſe to paſs cloſe below the Bridge, over the Ford, where a large and open breach was made for their Entrance, and ac<g ref="char:EOLhyphen"/>cordingly Orders were given for eve<g ref="char:EOLhyphen"/>ry thing to be in readineſs againſt the next Morning.</p>
+            <p>
+               <hi>Monday</hi> the 29th. Before Six this Morning, our Men were ready march<g ref="char:EOLhyphen"/>ed to the Town, ſhewing all imagina<g ref="char:EOLhyphen"/>ble deſire to Engage where they ſtood at their Arms.</p>
+            <p>Our Boats, Floats, and their Ap<g ref="char:EOLhyphen"/>purtenances, were drawn into the Town, by which time it was 10 of the Clock; all this Morning we plain<g ref="char:EOLhyphen"/>ly obſerved greater Numbers of the Enemy to flock into the Town, than formerly, but our Gunners plyed them ſo well, that great Numbers of them were killed with our Canon Ball; their coming ſo made us believe they had an Account of our Reſoluti<g ref="char:EOLhyphen"/>ons the Evening before: A little after 10 of the Clock, the Granadeers of both Parties that defended the Breach, throwing Hand-Granadoes one at a<g ref="char:EOLhyphen"/>other, the Enemies Granadoes ſet fire to our Faſheens that lay cloſe on the broken Arch, which ſuddainly flamed ſo violently, that our Men could not endure the Flame and Smoak that blew directly in their Faces, and though they laboured very hard to extinguiſh it, and did all that was poſſible for Men to do in their Con<g ref="char:EOLhyphen"/>dition, could not prevent that part of the Breaſt-Work from being thus ruined by the Enemy, but they pre<g ref="char:EOLhyphen"/>ſerved all the reſt intire; and imme<g ref="char:EOLhyphen"/>diately after, all Hands poſſible were employed in throwing up another Breaſt-Work, juſt behind the former, which was raiſed in a very few hours, and made much ſtronger than the for<g ref="char:EOLhyphen"/>mer, by this time it was ſomewhat af<g ref="char:EOLhyphen"/>ter Twelve of the Clock, and the Ge<g ref="char:EOLhyphen"/>neral finding the Attack upon the Town that way, was like to coſt the Lives of great Numbers of our Men, they deferred proceeding further therein, till another Council of War was called: All this Afternoon our Guns continued Firing.</p>
+            <p>The 30th. All this Morning till near Twelve at Noon, our Guns and Mortors have play'd continually from their ſeveral Batteries, and not with<g ref="char:EOLhyphen"/>out good Succeſs; they Deſtroying great Numbers of the Enemy. A<g ref="char:EOLhyphen"/>bout One a Clock, the General held a Council of War, with moſt of the Great Officers, wherein it was Re<g ref="char:EOLhyphen"/>ſolved, that this day we ſhould At<g ref="char:EOLhyphen"/>tempt paſſing the River, and accor<g ref="char:EOLhyphen"/>dingly all things were Diſpoſed againſt Four in the Afternoon, purſuance to the Orders given out by the General; about half an hour paſt Four the At<g ref="char:EOLhyphen"/>tack was made by 1500 Granadiers, who were Choſen Men drawn out of the whole Army, who had Each a Guiney given them for their Encou<g ref="char:EOLhyphen"/>ragement, in ſo hardy an Enterpriſe,
+<pb n="7" facs="tcp:137010:4"/>for all things were brought to that Extremity, that the Enemy rendred our Pontons uſeleſs, and broke the two Arches of the Bridge which we had with ſo much Difficulty repaired, and would have coſt us Ten Days time to have refitted, ſo that nothing could be done without Wading the River. The Signal for our Mens tak<g ref="char:EOLhyphen"/>ing the River, was the Ringing a great Bell, upon which the Grana<g ref="char:EOLhyphen"/>diers entered the Ford.</p>
+            <p>Captain <hi>Sandes,</hi> Cmmanded a Party of 30 Granadeers, having two Lieu<g ref="char:EOLhyphen"/>tenants to aſſiſt him, in the firſt At<g ref="char:EOLhyphen"/>tack, (the Brave Major General <hi>Tal<g ref="char:EOLhyphen"/>maſh,</hi> who did not Command that Day, going with them as a Volunteer, and was the fifth Man that entered the Breach.) The Enemy at firſt made conſiderable Oppoſition, by firing very ſmartly, but nothing could withſtand the Courage and Bravery of our Men; who, notwithſtanding they Marched up to their Cravats in Water; yet with continual Huzzaing, advanced under the Shelter of our Cannon, and throwing their Grana<g ref="char:EOLhyphen"/>does, forced the Enemy from their Poſts; and God be thanked, ſucceed<g ref="char:EOLhyphen"/>ed ſo well, that they entred the Town, and in leſs than an Hour, made them<g ref="char:EOLhyphen"/>ſelves entirely Maſters of it, and the River, in ſight of the Enemies whole Camp, who durſt not Attempt the Succour of their moſt Important Paſs, but run away, leaving behind them near Eleven Hundred of their Num<g ref="char:EOLhyphen"/>ber Dead on the Spot, and about Three Hundred and Fifty that were taken Priſoners, of which number is their Famous Major General <hi>Maxwel,</hi> one Collonel, two Lieutenant Collo<g ref="char:EOLhyphen"/>nels, ſix Captains, and great Numbers of <hi>Subalterian</hi> Offices; on our ſide we had not above Forty Men killed, and ſome few Wounded.</p>
+            <p>We found in the Place, ſix Pieces of large Braſs Canon, and two Mor<g ref="char:EOLhyphen"/>tars, with other ſmall Pieces; Twenty Barrels of Powder, Twelve Hogs<g ref="char:EOLhyphen"/>heads of Meal, <hi>&amp;c.</hi> with other good Plunder.</p>
+            <p>This great Action was performed both by the Officers and Soldiers, with all the Courage and Reſolution Ima<g ref="char:EOLhyphen"/>ginable; the Major Generals <hi>Tettar,</hi> and <hi>Mackay,</hi> and Brigadier General <hi>de la Meloniere,</hi> and the Prince of <hi>Heſſe, Darmſtadt,</hi> conducted the At<g ref="char:EOLhyphen"/>tack with great Vigor, and the Duke of <hi>Wirtemberg,</hi> Lieutenant General, who was carried over the River upon the Shouldiers of his Granadiers, to<g ref="char:EOLhyphen"/>gether with Major General <hi>Talmaſh,</hi> Count <hi>Naſſau,</hi> and Brigadier <hi>Belaſis,</hi> greatly contributed by their Conduct and Bravery to the good Succeſs of it.</p>
+            <p>
+               <hi>July</hi> the 2d. Our Men have been buſied in Lining the Works of the Town, which remain Entire towards the Enemies Camp, and Repairing ſome other Fortifications.</p>
+            <pb n="8" facs="tcp:137010:5" rendition="simple:additions"/>
+            <p> Yeſterday the General ſent a Trum<g ref="char:EOLhyphen"/>pet to the Enemy, about the Ex<g ref="char:EOLhyphen"/>change of Priſoners, who came back this Day, and brought with him Ma<g ref="char:EOLhyphen"/>jor General <hi>Maxwel</hi>'s Equipage, which he ſent for by him. There Arrived an Expreſs this Day to the General, from one of Colonel <hi>Woolſly</hi>'s Cap<g ref="char:EOLhyphen"/>tains, giving an Account that the Enemy had Deſerted <hi>Streams-Town,</hi> and that he and his Party is therein. Deſerters come in daily from the E<g ref="char:EOLhyphen"/>nemies Quarters, of Horſe, Foot, and Dragoons, who gives us an Ac<g ref="char:EOLhyphen"/>count of the great Confuſion the E<g ref="char:EOLhyphen"/>nemy are in.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>O<g ref="char:V">Ʋ</g>R ſuddain Storming the Town, was a great ſurprize to the Enemy, for as their Camp was ſending their Re<g ref="char:EOLhyphen"/>cruits to the Town, they met with the Garriſon flying, Rallied them, and came back; the Diſpute continued near half an hour; ſome of the moſt forward of our Men, who purſued them out of the Town, was driven back under the ſhelter of the Walls, who being reinforced, drove the Enemy back to ſome Intrenchments, <hi>300</hi> Yards from the Town, where they ſtill continued firing; and now have ſet fire to ſome Cabbins, near the Town: They have another Paſs, about half a Mile off, and another three Miles farther, called <hi>Mill-town</hi> Paſs; it's thought they'll Diſpute them both. Notwithſtanding the Enemy have Decampt, at this Inſtant we ſee a Body of Horſe, as we ſuppoſe facilitating the Recreating of the Foot: Their Horſe hovers about the Hills, near the Town.</p>
+               <p>As to the Number Kill'd, we cannot yet learn an exact Account; though I think, there never was a more Tragical Spectacle in ſo ſhort a time, and ſmall a place: One could not ſet down his Foot at the end of the Bridge, or Caſtle, but on Dead Bodies; many lay half buried un<g ref="char:EOLhyphen"/>der the Rubbiſh, and more under Faggots, and many not to be ſeen under the Ruins, whereby the Stink is unſufferable; but Orders are given for their immediate Bu<g ref="char:EOLhyphen"/>rial: What occaſioned the greater number to be ſlain, was that after our Army had entered the Town, the <hi>Iriſh</hi> Retreated to Redoubt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and diſputed every Inch be<g ref="char:EOLhyphen"/>fore the Town, was quite clear of them: The <hi>Danes</hi> found many of them under Tubs, and in dark Corners, moſt of which they put to the Sword: Our Horſe, and ſeveral Battalions of Foot, were drawn up on this ſide the Water, and ſtrong Guards put on every Ford, leaſt the Ene<g ref="char:EOLhyphen"/>my, from the Hills, ſhould attempt any thing againſt our Camp.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ An Impartial Journal of all the Tranſ<g ref="char:EOLhyphen"/>actions, of Their Majeſties Forces, and Thoſe of the <hi>Iriſh Rebels,</hi> both Regular Troops, and <hi>Rapparees,</hi> in this laſt Winters Campaign, in <hi>Ireland:</hi> Begin<g ref="char:EOLhyphen"/>ning from the 14th. of <hi>Novemb.</hi> 1691, (immediately after the Taking of <hi>Cork,</hi> and the two Forts of <hi>Kinſale,</hi>) the Time of the <hi>Royal Army</hi>'s going into Quarters<g ref="char:punc">▪</g> and ending with the Army's Taking the Field at <hi>Ballimore, June</hi> 1691. To which is added, An Exact LIST of all the <hi>Iriſh Rebels,</hi> that have been Kill'd, or Taken Priſoners in each Action; with the Names of the <hi>Engliſh</hi> Officers that Com<g ref="char:EOLhyphen"/>manded, the Day <hi>When,</hi> and Place <hi>Where</hi> each Action was perform'd.</p>
+            <p>Printed by Authority in <hi>Ireland,</hi> and Reprinted at <hi>London.</hi> Sold by moſt Bookſellers, 1691.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
